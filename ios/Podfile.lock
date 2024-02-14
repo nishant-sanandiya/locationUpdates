@@ -946,10 +946,6 @@ PODS:
     - React-debug
   - react-native-geolocation (3.1.0):
     - React-Core
-  - react-native-geolocation-service (5.3.1):
-    - React
-  - react-native-location (2.5.0):
-    - React
   - React-nativeconfig (0.73.4)
   - React-NativeModulesApple (0.73.4):
     - glog
@@ -1176,8 +1172,6 @@ DEPENDENCIES:
   - React-logger (from `../node_modules/react-native/ReactCommon/logger`)
   - React-Mapbuffer (from `../node_modules/react-native/ReactCommon`)
   - "react-native-geolocation (from `../node_modules/@react-native-community/geolocation`)"
-  - react-native-geolocation-service (from `../node_modules/react-native-geolocation-service`)
-  - react-native-location (from `../node_modules/react-native-location`)
   - React-nativeconfig (from `../node_modules/react-native/ReactCommon`)
   - React-NativeModulesApple (from `../node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios`)
   - React-perflogger (from `../node_modules/react-native/ReactCommon/reactperflogger`)
@@ -1275,10 +1269,6 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon"
   react-native-geolocation:
     :path: "../node_modules/@react-native-community/geolocation"
-  react-native-geolocation-service:
-    :path: "../node_modules/react-native-geolocation-service"
-  react-native-location:
-    :path: "../node_modules/react-native-location"
   React-nativeconfig:
     :path: "../node_modules/react-native/ReactCommon"
   React-NativeModulesApple:
@@ -1365,8 +1355,6 @@ SPEC CHECKSUMS:
   React-logger: 0a57b68dd2aec7ff738195f081f0520724b35dab
   React-Mapbuffer: 63913773ed7f96b814a2521e13e6d010282096ad
   react-native-geolocation: ef66fb798d96284c6043f0b16c15d9d1d4955db4
-  react-native-geolocation-service: 608e1da71a1ac31b4de64d9ef2815f697978c55b
-  react-native-location: 5a40ec1cc6abf2f6d94df979f98ec76c3a415681
   React-nativeconfig: d7af5bae6da70fa15ce44f045621cf99ed24087c
   React-NativeModulesApple: 0123905d5699853ac68519607555a9a4f5c7b3ac
   React-perflogger: 8a1e1af5733004bdd91258dcefbde21e0d1faccd

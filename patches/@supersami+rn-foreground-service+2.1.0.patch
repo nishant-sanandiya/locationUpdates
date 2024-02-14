@@ -1,97 +1,3 @@
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/3db3b3ac210bcdf5323f045c740e3f40/results.bin b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/3db3b3ac210bcdf5323f045c740e3f40/results.bin
-new file mode 100644
-index 0000000..e3f0ff0
---- /dev/null
-+++ b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/3db3b3ac210bcdf5323f045c740e3f40/results.bin
-@@ -0,0 +1 @@
-+i/classes_global-synthetics
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/results.bin b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/results.bin
-new file mode 100644
-index 0000000..5ff383e
---- /dev/null
-+++ b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/results.bin
-@@ -0,0 +1 @@
-+o/debug
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/BuildConfig.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/BuildConfig.dex
-new file mode 100644
-index 0000000..232b5cc
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/BuildConfig.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/Constants.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/Constants.dex
-new file mode 100644
-index 0000000..74c9a51
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/Constants.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService$1.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService$1.dex
-new file mode 100644
-index 0000000..41a1e81
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService$1.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService$2.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService$2.dex
-new file mode 100644
-index 0000000..b81b6f3
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService$2.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService.dex
-new file mode 100644
-index 0000000..d056d78
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundService.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServiceModule.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServiceModule.dex
-new file mode 100644
-index 0000000..890334d
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServiceModule.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServicePackage.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServicePackage.dex
-new file mode 100644
-index 0000000..6657ff7
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServicePackage.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServiceTask.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServiceTask.dex
-new file mode 100644
-index 0000000..0faea63
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/ForegroundServiceTask.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/MainActivity.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/MainActivity.dex
-new file mode 100644
-index 0000000..3a6ff73
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/MainActivity.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/NotificationConfig.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/NotificationConfig.dex
-new file mode 100644
-index 0000000..2965747
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/NotificationConfig.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/NotificationHelper.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/NotificationHelper.dex
-new file mode 100644
-index 0000000..6767a5f
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/debug_dex/com/supersami/foregroundservice/NotificationHelper.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/desugar_graph.bin b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/desugar_graph.bin
-new file mode 100644
-index 0000000..5ce6ab3
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/678f09d754f007d44950fa21e65cbfcf/transformed/debug/desugar_graph.bin differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/777b6447fd9bf74042bcf3bc27689484/results.bin b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/777b6447fd9bf74042bcf3bc27689484/results.bin
-new file mode 100644
-index 0000000..0d259dd
---- /dev/null
-+++ b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/777b6447fd9bf74042bcf3bc27689484/results.bin
-@@ -0,0 +1 @@
-+o/classes
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/777b6447fd9bf74042bcf3bc27689484/transformed/classes/classes_dex/classes.dex b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/777b6447fd9bf74042bcf3bc27689484/transformed/classes/classes_dex/classes.dex
-new file mode 100644
-index 0000000..333e5f9
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/777b6447fd9bf74042bcf3bc27689484/transformed/classes/classes_dex/classes.dex differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/9146276765f9c643045269bcce2d321b/results.bin b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/9146276765f9c643045269bcce2d321b/results.bin
-new file mode 100644
-index 0000000..4c288ce
---- /dev/null
-+++ b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/9146276765f9c643045269bcce2d321b/results.bin
-@@ -0,0 +1 @@
-+i/debug_dex
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/bb2e5337ac2139b3b5ae730866e651c6/results.bin b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/bb2e5337ac2139b3b5ae730866e651c6/results.bin
-new file mode 100644
-index 0000000..1ed65e0
---- /dev/null
-+++ b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/bb2e5337ac2139b3b5ae730866e651c6/results.bin
-@@ -0,0 +1 @@
-+i/
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/.transforms/e87ba7f3a08b310f33d2616fc6ecea06/results.bin b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/e87ba7f3a08b310f33d2616fc6ecea06/results.bin
-new file mode 100644
-index 0000000..1ed65e0
---- /dev/null
-+++ b/node_modules/@supersami/rn-foreground-service/android/build/.transforms/e87ba7f3a08b310f33d2616fc6ecea06/results.bin
-@@ -0,0 +1 @@
-+i/
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/generated/source/buildConfig/debug/com/supersami/foregroundservice/BuildConfig.java b/node_modules/@supersami/rn-foreground-service/android/build/generated/source/buildConfig/debug/com/supersami/foregroundservice/BuildConfig.java
 new file mode 100644
 index 0000000..c379c5b
@@ -182,10 +88,6 @@ index 0000000..9e26dfe
 @@ -0,0 +1 @@
 +{}
 \ No newline at end of file
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/compile_library_classes_jar/debug/classes.jar b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/compile_library_classes_jar/debug/classes.jar
-new file mode 100644
-index 0000000..948d8a9
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/compile_library_classes_jar/debug/classes.jar differ
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/compile_r_class_jar/debug/R.jar b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/compile_r_class_jar/debug/R.jar
 new file mode 100644
 index 0000000..c910c60
@@ -195,11 +97,11 @@ new file mode 100644
 index 0000000..e69de29
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
 new file mode 100644
-index 0000000..93656b1
+index 0000000..8d3a024
 --- /dev/null
 +++ b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties
 @@ -0,0 +1 @@
-+#Tue Feb 13 18:32:31 IST 2024
++#Wed Feb 14 14:23:43 IST 2024
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/incremental/debug/packageDebugResources/merger.xml
 new file mode 100644
 index 0000000..b8381bf
@@ -236,10 +138,6 @@ index 0000000..e9f7976
 +<?xml version="1.0" encoding="utf-8"?>
 +<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/agilemac70/Desktop/NishantReactNative/deepLinkingDemo/node_modules/@supersami/rn-foreground-service/android/src/main/assets"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/agilemac70/Desktop/NishantReactNative/deepLinkingDemo/node_modules/@supersami/rn-foreground-service/android/src/debug/assets"/></dataSet><dataSet config="generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/agilemac70/Desktop/NishantReactNative/deepLinkingDemo/node_modules/@supersami/rn-foreground-service/android/build/intermediates/shader_assets/debug/out"/></dataSet></merger>
 \ No newline at end of file
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/BuildConfig.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/BuildConfig.class
-new file mode 100644
-index 0000000..3418453
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/BuildConfig.class differ
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/Constants.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/Constants.class
 new file mode 100644
 index 0000000..16c1d38
@@ -254,12 +152,8 @@ index 0000000..4e46220
 Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundService$2.class differ
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundService.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundService.class
 new file mode 100644
-index 0000000..64b09f4
+index 0000000..ff5b4d3
 Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundService.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundServiceModule.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundServiceModule.class
-new file mode 100644
-index 0000000..fe106a9
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundServiceModule.class differ
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundServicePackage.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/ForegroundServicePackage.class
 new file mode 100644
 index 0000000..2868d82
@@ -272,14 +166,6 @@ diff --git a/node_modules/@supersami/rn-foreground-service/android/build/interme
 new file mode 100644
 index 0000000..23a4e2d
 Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/MainActivity.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/NotificationConfig.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/NotificationConfig.class
-new file mode 100644
-index 0000000..62bff0f
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/NotificationConfig.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/NotificationHelper.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/NotificationHelper.class
-new file mode 100644
-index 0000000..cb31232
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/javac/debug/classes/com/supersami/foregroundservice/NotificationHelper.class differ
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/local_only_symbol_list/debug/R-def.txt b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/local_only_symbol_list/debug/R-def.txt
 new file mode 100644
 index 0000000..78ac5b8
@@ -369,54 +255,6 @@ index 0000000..0637a08
 @@ -0,0 +1 @@
 +[]
 \ No newline at end of file
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/BuildConfig.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/BuildConfig.class
-new file mode 100644
-index 0000000..3418453
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/BuildConfig.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/Constants.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/Constants.class
-new file mode 100644
-index 0000000..16c1d38
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/Constants.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService$1.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService$1.class
-new file mode 100644
-index 0000000..94d30ff
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService$1.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService$2.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService$2.class
-new file mode 100644
-index 0000000..4e46220
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService$2.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService.class
-new file mode 100644
-index 0000000..64b09f4
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundService.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServiceModule.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServiceModule.class
-new file mode 100644
-index 0000000..fe106a9
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServiceModule.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServicePackage.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServicePackage.class
-new file mode 100644
-index 0000000..2868d82
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServicePackage.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServiceTask.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServiceTask.class
-new file mode 100644
-index 0000000..dcccf0d
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/ForegroundServiceTask.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/MainActivity.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/MainActivity.class
-new file mode 100644
-index 0000000..23a4e2d
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/MainActivity.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/NotificationConfig.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/NotificationConfig.class
-new file mode 100644
-index 0000000..62bff0f
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/NotificationConfig.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/NotificationHelper.class b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/NotificationHelper.class
-new file mode 100644
-index 0000000..cb31232
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_dir/debug/com/supersami/foregroundservice/NotificationHelper.class differ
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar
-new file mode 100644
-index 0000000..32b77ca
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/runtime_library_classes_jar/debug/classes.jar differ
 diff --git a/node_modules/@supersami/rn-foreground-service/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt b/node_modules/@supersami/rn-foreground-service/android/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt
 new file mode 100644
 index 0000000..158fb7d
@@ -475,22 +313,18 @@ index 0000000..98511fb
 +		INJECTED from /Users/agilemac70/Desktop/NishantReactNative/deepLinkingDemo/node_modules/@supersami/rn-foreground-service/android/src/main/AndroidManifest.xml
 +	android:minSdkVersion
 +		INJECTED from /Users/agilemac70/Desktop/NishantReactNative/deepLinkingDemo/node_modules/@supersami/rn-foreground-service/android/src/main/AndroidManifest.xml
-diff --git a/node_modules/@supersami/rn-foreground-service/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin b/node_modules/@supersami/rn-foreground-service/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin
-new file mode 100644
-index 0000000..5d601ab
-Binary files /dev/null and b/node_modules/@supersami/rn-foreground-service/android/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin differ
 diff --git a/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/ForegroundService.java b/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/ForegroundService.java
-index 31a2bd8..9093362 100644
+index 31a2bd8..217a265 100644
 --- a/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/ForegroundService.java
 +++ b/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/ForegroundService.java
-@@ -8,6 +8,7 @@ import android.os.Bundle;
- import android.os.IBinder;
- import android.os.Handler;
- import android.util.Log;
+@@ -14,6 +14,7 @@ import com.facebook.react.HeadlessJsTaskService;
+ import static com.supersami.foregroundservice.Constants.NOTIFICATION_CONFIG;
+ import static com.supersami.foregroundservice.Constants.TASK_CONFIG;
+ 
 +import com.facebook.react.R;
  
- import com.facebook.react.HeadlessJsTaskService;
- 
+ // NOTE: headless task will still block the UI so don't do heavy work, but this is also good
+ // since they will share the JS environment
 @@ -53,14 +54,14 @@ public class ForegroundService extends Service {
  
      @Override
@@ -508,15 +342,26 @@ index 31a2bd8..9093362 100644
          this.handler.removeCallbacks(this.runnableCode);
          running = 0;
          mInstance = null;
+@@ -121,7 +122,7 @@ public class ForegroundService extends Service {
+         This provides a convenient way to submit jobs to a service without having to bind and call on to its interface.
+         */
+ 
+-        //Log.d("ForegroundService", "onStartCommand flags: " + String.valueOf(flags) + "  " + String.valueOf(startId));
++        Log.d("ForegroundService", "onStartCommand flags: " + String.valueOf(flags) + "  " + String.valueOf(startId));
+ 
+         if (action != null) {
+             if (action.equals(Constants.ACTION_FOREGROUND_SERVICE_START)) {
 diff --git a/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/NotificationHelper.java b/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/NotificationHelper.java
-index afccd04..5006bfb 100644
+index afccd04..fb88671 100644
 --- a/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/NotificationHelper.java
 +++ b/node_modules/@supersami/rn-foreground-service/android/src/main/java/com/supersami/foregroundservice/NotificationHelper.java
-@@ -13,6 +13,7 @@ import android.os.Build;
- import android.os.Bundle;
- import androidx.core.app.NotificationCompat;
- import android.util.Log;
-+import com.facebook.react.R;
- 
- 
+@@ -18,6 +18,9 @@ import android.util.Log;
  // partially took ideas from: https://github.com/zo0r/react-native-push-notification/blob/master/android/src/main/java/com/dieam/reactnativepushnotification/modules/RNPushNotificationHelper.java
+ 
+ 
++
++import com.facebook.react.R;
++
+ class NotificationHelper {
+     private static final String NOTIFICATION_CHANNEL_ID = "com.supersami.foregroundservice.channel";
+ 
