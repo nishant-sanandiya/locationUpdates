@@ -1,0 +1,21 @@
+{
+  "cSpell.words": [
+    "aadhaar",
+    "assembledevelopment",
+    "assembleproduction",
+    "assemblestaging",
+    "Dekho",
+    "ifsc",
+    "KEYSFILE",
+    "lcov",
+    "MMKV",
+    "netinfo",
+    "tanstack",
+    "xcodebuild"
+  ],
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
+}
