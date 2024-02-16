@@ -89,8 +89,10 @@ const App = () => {
   const stopUpdateHandler = async () => {
     try {
       await ReactNativeForegroundService.stopAll();
+      console.log('watchRef.current :- ', watchRef.current);
       if (watchRef.current !== undefined) {
         Geolocation.clearWatch(watchRef.current);
+        watchRef.current = undefined;
       }
     } catch (err) {
       console.log('Error in stopUpdateHandler :- ', err);
